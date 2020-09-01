@@ -104,5 +104,6 @@ Você tambem tera que configurar um `.env` para alterar as variaveis de acordo c
 ## Licença
 
 Este projeto está licenciado sob a Licença MIT - consulte a página [LICENSE](https://opensource.org/licenses/MIT) para obter detalhes.
+
 Feito com 💜 por <a href="https://www.linkedin.com/in/matheus-petry-428727185/" target="blank">Matheus</a>.
  
