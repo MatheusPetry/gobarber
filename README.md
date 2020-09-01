@@ -1,9 +1,9 @@
 <h1 align="center">
 <br>
-  <img src=".github/logo.png" alt="GoBarber" width="300">
+  <img src=".github/logo.svg" alt="GoBarber" width="300">
 <br>
 <br>
-Proffy
+GoBarber                                                                                        
 </h1>
  
 <p align="center">Um projeto para agendamento de barbearia. </p>
@@ -11,7 +11,7 @@ Proffy
 <br />
 Os clientes através do aplicativo mobile podem se cadastrar, atualziar perfil, escolher o barbeiro e o melhor hórario disponivel.
 <br />
-Os Barbeiros através da página web conseguem se cadastrar, atualziar perfil, gerenciar seus hórarios e ver seus próximos compromissos.
+Os Barbeiros através da página web conseguem se cadastrar, atualizar perfil, gerenciar seus hórarios e ver seus próximos compromissos.
 </p>
 
 <p align="center">
@@ -36,35 +36,11 @@ Os Barbeiros através da página web conseguem se cadastrar, atualziar perfil, g
 
 ## Layout
 <div>
-<h3>Web</h3>
-  <h4>Landing Page
+  <h3>Web</h3>  
+  <img src=".github/web.gif" alt="demo" height="425" width="600"></h4>
   <br />
-  <img src=".github/landing.png" alt="landing" height="425" width="800">
-  <img src=".github/landingresponsivo.png" alt="landing" height="425" width="600"></h4>
-
-  <h4>Teacher Form
-  <br />
-  <img src=".github/teacherform.gif" alt="demo" height="425" width="600"></h4>
-
-  <h4>Teacher List 
-  <br />
-  <img src=".github/teacherlist.gif" alt="demo" height="425" width="600">
-  <img src=".github/teacherlist.png" alt="teacher list" height="425" width="600"></h4>
-
   <h3>Mobile</h3>
-  <h4>Landing Page
-  <br />
-  <img src=".github/landingmobile.jpg" alt="landing" height="425">
-
-  <h4>Teacher Form
-  <br />
-  <img src=".github/teacherformmobile.jpg" alt="teacher form" height="425"></h4>
-
-  <h4>Teacher List 
-  <br />
-  <img src=".github/teacherlistmobile.jpg" alt="teacher list" height="425">
-  <img src=".github/teacherlistmobile2.jpg" alt="teacher list" height="425">
-  <img src=".github/teacherlikemobile.jpg" alt="teacher like" height="425"></h4>
+  <img src=".github/mobile.gif" alt="demo" height="425" width="600"></h4>  
 </div>
 
 ## Requisitos
@@ -94,8 +70,6 @@ Para a preparação dos bancos de dados é recomendado o uso do Docker. Caso voc
   # Ou se preferir todos juntos
   $ docker start gostack_postgres mongodb redis 
 
-
-`asijdsiad`
 ```
 
 
