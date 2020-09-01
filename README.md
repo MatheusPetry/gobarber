@@ -40,7 +40,7 @@ Os Barbeiros através da página web conseguem se cadastrar, atualizar perfil, g
   <img src=".github/web.gif" alt="demo" height="425" width="600"></h4>
   <br />
   <h3>Mobile</h3>
-  <img src=".github/mobile.gif" alt="demo" height="425" width="600"></h4>  
+  <img src=".github/mobile.gif" alt="demo" height="600"></h4>  
 </div>
 
 ## Requisitos
@@ -104,4 +104,5 @@ Você tambem tera que configurar um `.env` para alterar as variaveis de acordo c
 ## Licença
 
 Este projeto está licenciado sob a Licença MIT - consulte a página [LICENSE](https://opensource.org/licenses/MIT) para obter detalhes.
+Feito com 💜 por <a href="https://www.linkedin.com/in/matheus-petry-428727185/" target="blank">Matheus</a>.
  
